@@ -12,6 +12,9 @@ The original dataset was filtered to only include products with at least 20 revi
 
 ![Summary_Table](five_star_vote_analysis.png)
 
+- There were 446 total vine reviews of which 43.7% (195) were five-star reviews.
+- There were 23,634 total unpaid reviews of which 48.1% (11,361) were five-star reviews.
+
 ## Summary
 
 Based on the total percentage of five-star reviews there does not appear to be a positivity biased for the vine program reviews.   Additional analysis to determine positivity bias would be to lower the rating threshold from five stars to four stars and see if there is any signifcant difference in the results.  
