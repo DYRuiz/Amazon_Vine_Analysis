@@ -10,7 +10,7 @@ The original dataset was filtered to only include products with at least 20 revi
 
 ### Summary of Analyzed DataSet
 
-[Summary_Table]('five_star_vote_analysis.png')
+![Summary_Table](five_star_vote_analysis.png)
 
 ## Summary
 
